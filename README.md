@@ -1,27 +1,27 @@
-# vite-template-redux
 
-Uses [Vite](https://vitejs.dev/), [Vitest](https://vitest.dev/), and [React Testing Library](https://github.com/testing-library/react-testing-library) to create a modern [React](https://react.dev/) app compatible with [Create React App](https://create-react-app.dev/)
+# Star Wars Character Search
 
-```sh
-npx degit reduxjs/redux-templates/packages/vite-template-redux my-app
-```
+Welcome to the Star Wars Character Search! This application allows you to explore information about various characters from the Star Wars universe, including details such as age, place of birth, height, films they appeared in, and the ships and vehicles they used. Additionally, you can save your favorite characters for easy access.
 
-## Goals
+## Built Using
+- React
+- Vite
+- Axios
+- Styled Components
 
-- Easy migration from Create React App or Vite
-- As beginner friendly as Create React App
-- Optimized performance compared to Create React App
-- Customizable without ejecting
 
-## Scripts
+## Installation
 
-- `dev`/`start` - start dev server and open browser
-- `build` - build for production
-- `preview` - locally preview production build
-- `test` - launch test runner
+To run this project locally, follow these steps:
+
+1.  Clone the repository to your local machine.
+2.  Navigate to the project directory.
+3.  Run `npm install` to install the dependencies.
+4.  After the installation is complete, run `npm run dev` to start the development server.
 
 ## Inspiration
 
 - [Create React App](https://github.com/facebook/create-react-app/tree/main/packages/cra-template)
 - [Vite](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react)
 - [Vitest](https://github.com/vitest-dev/vitest/tree/main/examples/react-testing-lib)
+
